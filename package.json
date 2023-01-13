@@ -1,0 +1,22 @@
+{
+  "name": "vaccarim",
+  "version": "1.0.0",
+  "description": "A discord bot that can assist you in code completion and custom image generation using ChatGPT. Deployed on Replit.",
+  "main": "index.js",
+  "scripts": {
+    "test": "",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "kartikmehta8",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "discord.js": "^13.6.0",
+    "node-fetch": "^3.2.6",
+    "openai": "^3.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
