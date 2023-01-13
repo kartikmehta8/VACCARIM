@@ -6,6 +6,7 @@
 - vaccarim is an **assistant bot** you can use on Discord.
 - vaccarim can help you with **code completions** and **generating images** using **chatgpt**, openai's next generation superpower.
 - vaccarim can be hosted on **Replit**, where you can play around with code and build rapid prototypes.
+- [Click Here](https://discord.com/api/oauth2/authorize?client_id=931412443010330685&permissions=8&scope=bot) to invite vaccarim to your server.
 
 ## Technologies
 ```js
