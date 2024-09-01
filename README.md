@@ -30,12 +30,3 @@ export const technologies = {
   4: "openai"
 }
 ```
-
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/77505989/212318055-dd3a0ad1-aaed-4002-8982-78a30700df33.png" />
-</p>
-
-## Contributors
-- [Kartik Mehta](https://github.com/kartikmehta8)
-- [Juhie Chandra](https://github.com/juhiechandra)
-- [Manasvi Singh Chauhan](https://github.com/Alcyone713)
